@@ -1,4 +1,4 @@
-import './css/styles.css';
+import './styles.css';
 import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import axios from 'axios';
 import SimpleLightbox from 'simplelightbox';
